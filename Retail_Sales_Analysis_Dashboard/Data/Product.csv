@@ -1,0 +1,1001 @@
+Product_ID,Category,Product_Name,Sub_Category,Brand,Unit_Price
+Product_224,Electronics,Pulse 224,Tablet,Pulse,946
+Product_584,Home Appliances,Xeno 584,Kitchen,Xeno,595
+Product_374,Toys,Alpha 374,Outdoor,Alpha,105
+Product_220,Clothing,Nova 220,Women,Nova,108
+Product_358,Books,Alpha 358,Comics,Alpha,45
+Product_132,Electronics,Omni 132,Laptop,Omni,946
+Product_609,Clothing,Xeno 609,Kids,Xeno,108
+Product_590,Electronics,Nova 590,Tablet,Nova,946
+Product_807,Toys,Zenith 807,Outdoor,Zenith,105
+Product_156,Toys,Pulse 156,Outdoor,Pulse,105
+Product_5,Clothing,Alpha 5,Women,Alpha,108
+Product_933,Books,Nova 933,Fiction,Nova,45
+Product_743,Home Appliances,Pulse 743,Living Room,Pulse,595
+Product_467,Toys,Omni 467,Indoor,Omni,105
+Product_214,Books,Omni 214,Education,Omni,45
+Product_873,Books,Omni 873,Education,Omni,45
+Product_428,Electronics,Zenith 428,Laptop,Zenith,946
+Product_964,Clothing,Nova 964,Men,Nova,108
+Product_863,Home Appliances,Omni 863,Laundry,Omni,595
+Product_296,Books,Alpha 296,Education,Alpha,45
+Product_344,Books,Alpha 344,Comics,Alpha,45
+Product_299,Books,Xeno 299,Fiction,Xeno,45
+Product_334,Toys,Pulse 334,Outdoor,Pulse,105
+Product_39,Electronics,Alpha 39,Laptop,Alpha,946
+Product_472,Electronics,Alpha 472,Tablet,Alpha,946
+Product_686,Home Appliances,Alpha 686,Laundry,Alpha,595
+Product_896,Toys,Omni 896,Outdoor,Omni,105
+Product_172,Home Appliances,Omni 172,Living Room,Omni,595
+Product_939,Books,Zenith 939,Education,Zenith,45
+Product_966,Clothing,Alpha 966,Men,Alpha,108
+Product_327,Clothing,Zenith 327,Women,Zenith,108
+Product_856,Electronics,Zenith 856,Tablet,Zenith,946
+Product_115,Home Appliances,Nova 115,Kitchen,Nova,595
+Product_56,Toys,Xeno 56,Educational,Xeno,105
+Product_121,Toys,Zenith 121,Outdoor,Zenith,105
+Product_376,Electronics,Pulse 376,Laptop,Pulse,946
+Product_408,Books,Pulse 408,Comics,Pulse,45
+Product_759,Clothing,Pulse 759,Women,Pulse,108
+Product_815,Clothing,Nova 815,Women,Nova,108
+Product_298,Electronics,Zenith 298,Tablet,Zenith,946
+Product_764,Home Appliances,Omni 764,Kitchen,Omni,595
+Product_619,Electronics,Nova 619,Laptop,Nova,946
+Product_295,Toys,Omni 295,Outdoor,Omni,105
+Product_704,Toys,Alpha 704,Indoor,Alpha,105
+Product_803,Electronics,Pulse 803,Tablet,Pulse,946
+Product_691,Electronics,Omni 691,Laptop,Omni,946
+Product_474,Toys,Zenith 474,Outdoor,Zenith,105
+Product_736,Home Appliances,Nova 736,Living Room,Nova,595
+Product_336,Books,Alpha 336,Fiction,Alpha,45
+Product_49,Home Appliances,Alpha 49,Kitchen,Alpha,595
+Product_21,Books,Omni 21,Comics,Omni,45
+Product_10,Toys,Alpha 10,Outdoor,Alpha,105
+Product_985,Books,Pulse 985,Comics,Pulse,45
+Product_422,Books,Alpha 422,Comics,Alpha,45
+Product_899,Toys,Alpha 899,Educational,Alpha,105
+Product_708,Electronics,Zenith 708,Mobile,Zenith,946
+Product_54,Home Appliances,Alpha 54,Living Room,Alpha,595
+Product_419,Electronics,Pulse 419,Tablet,Pulse,946
+Product_542,Toys,Alpha 542,Educational,Alpha,105
+Product_31,Toys,Xeno 31,Educational,Xeno,105
+Product_227,Home Appliances,Zenith 227,Living Room,Zenith,595
+Product_157,Home Appliances,Nova 157,Laundry,Nova,595
+Product_844,Electronics,Xeno 844,Mobile,Xeno,946
+Product_730,Electronics,Alpha 730,Laptop,Alpha,946
+Product_568,Books,Omni 568,Comics,Omni,45
+Product_25,Books,Alpha 25,Education,Alpha,45
+Product_641,Clothing,Zenith 641,Men,Zenith,108
+Product_867,Toys,Pulse 867,Indoor,Pulse,105
+Product_458,Home Appliances,Pulse 458,Kitchen,Pulse,595
+Product_322,Toys,Omni 322,Outdoor,Omni,105
+Product_321,Home Appliances,Omni 321,Living Room,Omni,595
+Product_698,Electronics,Omni 698,Mobile,Omni,946
+Product_465,Clothing,Xeno 465,Kids,Xeno,108
+Product_18,Electronics,Omni 18,Mobile,Omni,946
+Product_941,Books,Omni 941,Fiction,Omni,45
+Product_647,Books,Nova 647,Education,Nova,45
+Product_872,Electronics,Alpha 872,Mobile,Alpha,946
+Product_7,Toys,Omni 7,Educational,Omni,105
+Product_831,Electronics,Pulse 831,Laptop,Pulse,946
+Product_498,Home Appliances,Pulse 498,Living Room,Pulse,595
+Product_566,Toys,Zenith 566,Indoor,Zenith,105
+Product_870,Clothing,Alpha 870,Kids,Alpha,108
+Product_288,Electronics,Pulse 288,Mobile,Pulse,946
+Product_23,Electronics,Alpha 23,Tablet,Alpha,946
+Product_669,Electronics,Alpha 669,Laptop,Alpha,946
+Product_608,Clothing,Omni 608,Men,Omni,108
+Product_888,Home Appliances,Alpha 888,Laundry,Alpha,595
+Product_594,Electronics,Nova 594,Laptop,Nova,946
+Product_572,Clothing,Alpha 572,Kids,Alpha,108
+Product_347,Books,Zenith 347,Comics,Zenith,45
+Product_143,Clothing,Omni 143,Kids,Omni,108
+Product_616,Toys,Omni 616,Outdoor,Omni,105
+Product_15,Clothing,Zenith 15,Women,Zenith,108
+Product_871,Clothing,Pulse 871,Men,Pulse,108
+Product_685,Home Appliances,Zenith 685,Living Room,Zenith,595
+Product_328,Books,Pulse 328,Comics,Pulse,45
+Product_14,Clothing,Nova 14,Men,Nova,108
+Product_848,Home Appliances,Pulse 848,Laundry,Pulse,595
+Product_718,Home Appliances,Zenith 718,Laundry,Zenith,595
+Product_442,Clothing,Zenith 442,Men,Zenith,108
+Product_527,Electronics,Pulse 527,Mobile,Pulse,946
+Product_210,Books,Zenith 210,Fiction,Zenith,45
+Product_373,Books,Omni 373,Comics,Omni,45
+Product_794,Home Appliances,Omni 794,Laundry,Omni,595
+Product_368,Home Appliances,Xeno 368,Kitchen,Xeno,595
+Product_805,Books,Nova 805,Comics,Nova,45
+Product_148,Electronics,Omni 148,Laptop,Omni,946
+Product_452,Books,Zenith 452,Education,Zenith,45
+Product_425,Toys,Xeno 425,Outdoor,Xeno,105
+Product_24,Clothing,Pulse 24,Women,Pulse,108
+Product_275,Books,Pulse 275,Fiction,Pulse,45
+Product_675,Toys,Pulse 675,Indoor,Pulse,105
+Product_272,Home Appliances,Alpha 272,Kitchen,Alpha,595
+Product_610,Electronics,Pulse 610,Tablet,Pulse,946
+Product_323,Electronics,Zenith 323,Mobile,Zenith,946
+Product_36,Clothing,Zenith 36,Men,Zenith,108
+Product_305,Home Appliances,Xeno 305,Living Room,Xeno,595
+Product_59,Home Appliances,Nova 59,Laundry,Nova,595
+Product_567,Home Appliances,Omni 567,Laundry,Omni,595
+Product_994,Home Appliances,Alpha 994,Living Room,Alpha,595
+Product_859,Books,Xeno 859,Fiction,Xeno,45
+Product_846,Toys,Pulse 846,Indoor,Pulse,105
+Product_822,Electronics,Alpha 822,Tablet,Alpha,946
+Product_587,Books,Pulse 587,Comics,Pulse,45
+Product_352,Clothing,Nova 352,Women,Nova,108
+Product_509,Electronics,Omni 509,Tablet,Omni,946
+Product_202,Toys,Zenith 202,Outdoor,Zenith,105
+Product_808,Electronics,Alpha 808,Laptop,Alpha,946
+Product_898,Clothing,Xeno 898,Women,Xeno,108
+Product_737,Clothing,Xeno 737,Kids,Xeno,108
+Product_335,Books,Nova 335,Fiction,Nova,45
+Product_207,Books,Alpha 207,Fiction,Alpha,45
+Product_292,Toys,Nova 292,Indoor,Nova,105
+Product_343,Electronics,Pulse 343,Tablet,Pulse,946
+Product_217,Clothing,Nova 217,Men,Nova,108
+Product_977,Home Appliances,Xeno 977,Laundry,Xeno,595
+Product_401,Electronics,Zenith 401,Tablet,Zenith,946
+Product_742,Toys,Alpha 742,Outdoor,Alpha,105
+Product_875,Home Appliances,Zenith 875,Living Room,Zenith,595
+Product_150,Toys,Zenith 150,Educational,Zenith,105
+Product_185,Books,Nova 185,Education,Nova,45
+Product_406,Books,Omni 406,Education,Omni,45
+Product_921,Books,Nova 921,Comics,Nova,45
+Product_410,Books,Omni 410,Comics,Omni,45
+Product_852,Clothing,Alpha 852,Kids,Alpha,108
+Product_482,Toys,Pulse 482,Outdoor,Pulse,105
+Product_934,Electronics,Zenith 934,Tablet,Zenith,946
+Product_597,Books,Alpha 597,Education,Alpha,45
+Product_574,Electronics,Zenith 574,Mobile,Zenith,946
+Product_361,Clothing,Xeno 361,Kids,Xeno,108
+Product_796,Home Appliances,Nova 796,Living Room,Nova,595
+Product_781,Clothing,Xeno 781,Men,Xeno,108
+Product_917,Home Appliances,Pulse 917,Laundry,Pulse,595
+Product_911,Electronics,Omni 911,Mobile,Omni,946
+Product_362,Home Appliances,Zenith 362,Laundry,Zenith,595
+Product_607,Home Appliances,Omni 607,Living Room,Omni,595
+Product_937,Clothing,Pulse 937,Kids,Pulse,108
+Product_205,Books,Zenith 205,Comics,Zenith,45
+Product_785,Toys,Omni 785,Educational,Omni,105
+Product_416,Home Appliances,Nova 416,Living Room,Nova,595
+Product_991,Electronics,Xeno 991,Tablet,Xeno,946
+Product_360,Toys,Nova 360,Educational,Nova,105
+Product_967,Books,Alpha 967,Education,Alpha,45
+Product_228,Electronics,Zenith 228,Tablet,Zenith,946
+Product_928,Clothing,Alpha 928,Women,Alpha,108
+Product_89,Books,Nova 89,Comics,Nova,45
+Product_652,Home Appliances,Pulse 652,Living Room,Pulse,595
+Product_355,Electronics,Pulse 355,Mobile,Pulse,946
+Product_484,Electronics,Omni 484,Laptop,Omni,946
+Product_412,Books,Alpha 412,Comics,Alpha,45
+Product_240,Electronics,Nova 240,Tablet,Nova,946
+Product_502,Home Appliances,Pulse 502,Living Room,Pulse,595
+Product_364,Toys,Pulse 364,Outdoor,Pulse,105
+Product_52,Electronics,Alpha 52,Mobile,Alpha,946
+Product_906,Toys,Nova 906,Outdoor,Nova,105
+Product_20,Toys,Pulse 20,Outdoor,Pulse,105
+Product_799,Books,Pulse 799,Comics,Pulse,45
+Product_992,Electronics,Alpha 992,Mobile,Alpha,946
+Product_269,Toys,Xeno 269,Educational,Xeno,105
+Product_947,Electronics,Nova 947,Tablet,Nova,946
+Product_346,Books,Zenith 346,Education,Zenith,45
+Product_861,Home Appliances,Omni 861,Laundry,Omni,595
+Product_166,Home Appliances,Alpha 166,Living Room,Alpha,595
+Product_760,Home Appliances,Nova 760,Laundry,Nova,595
+Product_624,Toys,Omni 624,Outdoor,Omni,105
+Product_178,Toys,Zenith 178,Outdoor,Zenith,105
+Product_901,Books,Pulse 901,Education,Pulse,45
+Product_700,Clothing,Zenith 700,Kids,Zenith,108
+Product_746,Toys,Nova 746,Educational,Nova,105
+Product_481,Clothing,Xeno 481,Kids,Xeno,108
+Product_243,Home Appliances,Xeno 243,Kitchen,Xeno,595
+Product_814,Clothing,Pulse 814,Kids,Pulse,108
+Product_173,Electronics,Alpha 173,Tablet,Alpha,946
+Product_719,Books,Nova 719,Education,Nova,45
+Product_146,Home Appliances,Zenith 146,Living Room,Zenith,595
+Product_399,Home Appliances,Alpha 399,Living Room,Alpha,595
+Product_543,Clothing,Pulse 543,Men,Pulse,108
+Product_925,Clothing,Alpha 925,Men,Alpha,108
+Product_656,Books,Nova 656,Education,Nova,45
+Product_68,Home Appliances,Pulse 68,Laundry,Pulse,595
+Product_787,Books,Alpha 787,Education,Alpha,45
+Product_175,Books,Zenith 175,Fiction,Zenith,45
+Product_133,Home Appliances,Zenith 133,Kitchen,Zenith,595
+Product_679,Books,Alpha 679,Fiction,Alpha,45
+Product_813,Books,Zenith 813,Education,Zenith,45
+Product_490,Clothing,Pulse 490,Women,Pulse,108
+Product_151,Electronics,Zenith 151,Mobile,Zenith,946
+Product_154,Electronics,Pulse 154,Laptop,Pulse,946
+Product_79,Electronics,Pulse 79,Laptop,Pulse,946
+Product_614,Clothing,Omni 614,Men,Omni,108
+Product_765,Clothing,Pulse 765,Kids,Pulse,108
+Product_560,Clothing,Zenith 560,Women,Zenith,108
+Product_462,Clothing,Nova 462,Women,Nova,108
+Product_231,Electronics,Xeno 231,Mobile,Xeno,946
+Product_868,Books,Alpha 868,Comics,Alpha,45
+Product_659,Home Appliances,Zenith 659,Laundry,Zenith,595
+Product_348,Toys,Nova 348,Indoor,Nova,105
+Product_836,Clothing,Xeno 836,Men,Xeno,108
+Product_716,Electronics,Xeno 716,Mobile,Xeno,946
+Product_487,Books,Alpha 487,Education,Alpha,45
+Product_309,Home Appliances,Pulse 309,Living Room,Pulse,595
+Product_263,Electronics,Omni 263,Laptop,Omni,946
+Product_824,Books,Zenith 824,Fiction,Zenith,45
+Product_310,Electronics,Xeno 310,Mobile,Xeno,946
+Product_825,Books,Zenith 825,Education,Zenith,45
+Product_57,Home Appliances,Xeno 57,Living Room,Xeno,595
+Product_436,Home Appliances,Xeno 436,Kitchen,Xeno,595
+Product_598,Home Appliances,Zenith 598,Kitchen,Zenith,595
+Product_818,Clothing,Omni 818,Women,Omni,108
+Product_110,Books,Nova 110,Comics,Nova,45
+Product_835,Electronics,Alpha 835,Tablet,Alpha,946
+Product_397,Electronics,Zenith 397,Mobile,Zenith,946
+Product_73,Books,Omni 73,Education,Omni,45
+Product_468,Clothing,Zenith 468,Kids,Zenith,108
+Product_833,Clothing,Pulse 833,Women,Pulse,108
+Product_894,Toys,Zenith 894,Educational,Zenith,105
+Product_605,Toys,Nova 605,Outdoor,Nova,105
+Product_354,Toys,Zenith 354,Educational,Zenith,105
+Product_242,Electronics,Alpha 242,Laptop,Alpha,946
+Product_907,Home Appliances,Zenith 907,Laundry,Zenith,595
+Product_755,Clothing,Pulse 755,Kids,Pulse,108
+Product_913,Electronics,Alpha 913,Mobile,Alpha,946
+Product_959,Clothing,Nova 959,Men,Nova,108
+Product_800,Electronics,Xeno 800,Tablet,Xeno,946
+Product_3,Electronics,Omni 3,Mobile,Omni,946
+Product_369,Home Appliances,Omni 369,Kitchen,Omni,595
+Product_732,Books,Zenith 732,Fiction,Zenith,45
+Product_988,Home Appliances,Nova 988,Living Room,Nova,595
+Product_521,Toys,Omni 521,Outdoor,Omni,105
+Product_43,Clothing,Nova 43,Kids,Nova,108
+Product_688,Clothing,Zenith 688,Kids,Zenith,108
+Product_840,Clothing,Alpha 840,Kids,Alpha,108
+Product_633,Home Appliances,Alpha 633,Kitchen,Alpha,595
+Product_637,Electronics,Nova 637,Tablet,Nova,946
+Product_632,Books,Alpha 632,Comics,Alpha,45
+Product_809,Books,Xeno 809,Fiction,Xeno,45
+Product_290,Toys,Pulse 290,Outdoor,Pulse,105
+Product_188,Books,Omni 188,Fiction,Omni,45
+Product_516,Clothing,Alpha 516,Men,Alpha,108
+Product_952,Toys,Xeno 952,Educational,Xeno,105
+Product_230,Books,Xeno 230,Fiction,Xeno,45
+Product_889,Home Appliances,Omni 889,Laundry,Omni,595
+Product_504,Clothing,Nova 504,Women,Nova,108
+Product_454,Toys,Nova 454,Educational,Nova,105
+Product_104,Toys,Xeno 104,Indoor,Xeno,105
+Product_733,Electronics,Pulse 733,Tablet,Pulse,946
+Product_623,Home Appliances,Zenith 623,Laundry,Zenith,595
+Product_135,Electronics,Pulse 135,Laptop,Pulse,946
+Product_756,Clothing,Zenith 756,Kids,Zenith,108
+Product_280,Electronics,Alpha 280,Tablet,Alpha,946
+Product_665,Toys,Zenith 665,Outdoor,Zenith,105
+Product_61,Books,Omni 61,Fiction,Omni,45
+Product_8,Electronics,Nova 8,Tablet,Nova,946
+Product_158,Books,Pulse 158,Comics,Pulse,45
+Product_74,Home Appliances,Alpha 74,Living Room,Alpha,595
+Product_13,Home Appliances,Zenith 13,Kitchen,Zenith,595
+Product_750,Books,Xeno 750,Fiction,Xeno,45
+Product_78,Clothing,Nova 78,Men,Nova,108
+Product_144,Toys,Nova 144,Educational,Nova,105
+Product_915,Clothing,Omni 915,Men,Omni,108
+Product_897,Clothing,Alpha 897,Women,Alpha,108
+Product_618,Toys,Pulse 618,Educational,Pulse,105
+Product_792,Books,Nova 792,Comics,Nova,45
+Product_430,Electronics,Pulse 430,Laptop,Pulse,946
+Product_582,Home Appliances,Zenith 582,Kitchen,Zenith,595
+Product_674,Home Appliances,Nova 674,Laundry,Nova,595
+Product_497,Home Appliances,Xeno 497,Laundry,Xeno,595
+Product_951,Books,Zenith 951,Fiction,Zenith,45
+Product_365,Books,Omni 365,Education,Omni,45
+Product_954,Toys,Pulse 954,Indoor,Pulse,105
+Product_1,Electronics,Alpha 1,Mobile,Alpha,946
+Product_657,Books,Omni 657,Fiction,Omni,45
+Product_331,Clothing,Zenith 331,Kids,Zenith,108
+Product_383,Toys,Omni 383,Outdoor,Omni,105
+Product_711,Home Appliances,Omni 711,Living Room,Omni,595
+Product_596,Toys,Nova 596,Educational,Nova,105
+Product_440,Electronics,Nova 440,Tablet,Nova,946
+Product_289,Toys,Omni 289,Indoor,Omni,105
+Product_635,Clothing,Zenith 635,Men,Zenith,108
+Product_953,Electronics,Xeno 953,Laptop,Xeno,946
+Product_267,Books,Pulse 267,Comics,Pulse,45
+Product_515,Electronics,Xeno 515,Tablet,Xeno,946
+Product_536,Home Appliances,Pulse 536,Laundry,Pulse,595
+Product_287,Toys,Zenith 287,Outdoor,Zenith,105
+Product_910,Toys,Alpha 910,Outdoor,Alpha,105
+Product_417,Electronics,Zenith 417,Mobile,Zenith,946
+Product_769,Home Appliances,Nova 769,Laundry,Nova,595
+Product_264,Home Appliances,Pulse 264,Laundry,Pulse,595
+Product_461,Clothing,Alpha 461,Kids,Alpha,108
+Product_533,Electronics,Alpha 533,Laptop,Alpha,946
+Product_28,Home Appliances,Pulse 28,Laundry,Pulse,595
+Product_849,Toys,Zenith 849,Educational,Zenith,105
+Product_974,Clothing,Xeno 974,Women,Xeno,108
+Product_828,Books,Zenith 828,Comics,Zenith,45
+Product_152,Toys,Omni 152,Educational,Omni,105
+Product_971,Clothing,Alpha 971,Men,Alpha,108
+Product_573,Toys,Pulse 573,Indoor,Pulse,105
+Product_226,Toys,Pulse 226,Outdoor,Pulse,105
+Product_140,Electronics,Xeno 140,Mobile,Xeno,946
+Product_689,Home Appliances,Alpha 689,Living Room,Alpha,595
+Product_660,Electronics,Pulse 660,Laptop,Pulse,946
+Product_724,Electronics,Nova 724,Mobile,Nova,946
+Product_744,Clothing,Pulse 744,Kids,Pulse,108
+Product_182,Clothing,Omni 182,Women,Omni,108
+Product_98,Clothing,Pulse 98,Men,Pulse,108
+Product_367,Toys,Zenith 367,Indoor,Zenith,105
+Product_539,Toys,Xeno 539,Educational,Xeno,105
+Product_332,Toys,Nova 332,Outdoor,Nova,105
+Product_772,Electronics,Xeno 772,Mobile,Xeno,946
+Product_75,Clothing,Omni 75,Kids,Omni,108
+Product_162,Books,Alpha 162,Education,Alpha,45
+Product_664,Toys,Nova 664,Outdoor,Nova,105
+Product_81,Books,Xeno 81,Comics,Xeno,45
+Product_134,Home Appliances,Pulse 134,Laundry,Pulse,595
+Product_790,Electronics,Omni 790,Mobile,Omni,946
+Product_823,Clothing,Nova 823,Women,Nova,108
+Product_80,Clothing,Pulse 80,Men,Pulse,108
+Product_690,Clothing,Pulse 690,Women,Pulse,108
+Product_645,Clothing,Alpha 645,Kids,Alpha,108
+Product_774,Electronics,Nova 774,Tablet,Nova,946
+Product_455,Electronics,Zenith 455,Mobile,Zenith,946
+Product_514,Clothing,Zenith 514,Kids,Zenith,108
+Product_564,Electronics,Zenith 564,Mobile,Zenith,946
+Product_403,Home Appliances,Zenith 403,Living Room,Zenith,595
+Product_394,Electronics,Pulse 394,Tablet,Pulse,946
+Product_948,Electronics,Nova 948,Mobile,Nova,946
+Product_168,Electronics,Pulse 168,Tablet,Pulse,946
+Product_739,Toys,Zenith 739,Outdoor,Zenith,105
+Product_935,Clothing,Alpha 935,Women,Alpha,108
+Product_625,Toys,Zenith 625,Outdoor,Zenith,105
+Product_387,Clothing,Omni 387,Women,Omni,108
+Product_778,Books,Alpha 778,Education,Alpha,45
+Product_259,Books,Nova 259,Comics,Nova,45
+Product_626,Home Appliances,Alpha 626,Living Room,Alpha,595
+Product_676,Clothing,Nova 676,Men,Nova,108
+Product_70,Clothing,Xeno 70,Men,Xeno,108
+Product_318,Books,Xeno 318,Comics,Xeno,45
+Product_850,Home Appliances,Alpha 850,Kitchen,Alpha,595
+Product_17,Electronics,Omni 17,Mobile,Omni,946
+Product_578,Clothing,Pulse 578,Kids,Pulse,108
+Product_46,Clothing,Nova 46,Women,Nova,108
+Product_392,Electronics,Nova 392,Mobile,Nova,946
+Product_159,Clothing,Zenith 159,Women,Zenith,108
+Product_77,Clothing,Alpha 77,Women,Alpha,108
+Product_998,Clothing,Zenith 998,Men,Zenith,108
+Product_273,Toys,Pulse 273,Educational,Pulse,105
+Product_646,Toys,Xeno 646,Indoor,Xeno,105
+Product_762,Home Appliances,Pulse 762,Living Room,Pulse,595
+Product_248,Clothing,Zenith 248,Men,Zenith,108
+Product_393,Electronics,Alpha 393,Mobile,Alpha,946
+Product_706,Toys,Pulse 706,Educational,Pulse,105
+Product_390,Home Appliances,Xeno 390,Living Room,Xeno,595
+Product_687,Electronics,Omni 687,Tablet,Omni,946
+Product_962,Electronics,Omni 962,Mobile,Omni,946
+Product_525,Home Appliances,Nova 525,Living Room,Nova,595
+Product_644,Home Appliances,Alpha 644,Laundry,Alpha,595
+Product_783,Electronics,Zenith 783,Tablet,Zenith,946
+Product_35,Clothing,Xeno 35,Women,Xeno,108
+Product_916,Toys,Zenith 916,Indoor,Zenith,105
+Product_71,Books,Omni 71,Comics,Omni,45
+Product_922,Electronics,Omni 922,Laptop,Omni,946
+Product_549,Toys,Pulse 549,Educational,Pulse,105
+Product_771,Toys,Zenith 771,Educational,Zenith,105
+Product_466,Books,Alpha 466,Fiction,Alpha,45
+Product_433,Toys,Pulse 433,Educational,Pulse,105
+Product_884,Books,Pulse 884,Comics,Pulse,45
+Product_114,Home Appliances,Alpha 114,Living Room,Alpha,595
+Product_648,Electronics,Xeno 648,Tablet,Xeno,946
+Product_658,Books,Omni 658,Comics,Omni,45
+Product_878,Books,Nova 878,Fiction,Nova,45
+Product_105,Electronics,Xeno 105,Laptop,Xeno,946
+Product_551,Electronics,Zenith 551,Mobile,Zenith,946
+Product_797,Toys,Zenith 797,Outdoor,Zenith,105
+Product_480,Books,Nova 480,Fiction,Nova,45
+Product_993,Electronics,Xeno 993,Tablet,Xeno,946
+Product_473,Electronics,Omni 473,Mobile,Omni,946
+Product_620,Electronics,Zenith 620,Tablet,Zenith,946
+Product_414,Home Appliances,Zenith 414,Living Room,Zenith,595
+Product_171,Home Appliances,Zenith 171,Living Room,Zenith,595
+Product_380,Electronics,Xeno 380,Laptop,Xeno,946
+Product_404,Books,Xeno 404,Fiction,Xeno,45
+Product_277,Home Appliances,Xeno 277,Living Room,Xeno,595
+Product_326,Home Appliances,Nova 326,Living Room,Nova,595
+Product_201,Home Appliances,Nova 201,Living Room,Nova,595
+Product_145,Toys,Omni 145,Indoor,Omni,105
+Product_866,Home Appliances,Pulse 866,Kitchen,Pulse,595
+Product_411,Toys,Zenith 411,Educational,Zenith,105
+Product_638,Toys,Nova 638,Educational,Nova,105
+Product_547,Toys,Xeno 547,Educational,Xeno,105
+Product_221,Books,Zenith 221,Fiction,Zenith,45
+Product_138,Home Appliances,Pulse 138,Laundry,Pulse,595
+Product_161,Books,Xeno 161,Comics,Xeno,45
+Product_375,Clothing,Nova 375,Men,Nova,108
+Product_253,Books,Omni 253,Comics,Omni,45
+Product_996,Home Appliances,Zenith 996,Living Room,Zenith,595
+Product_102,Home Appliances,Alpha 102,Laundry,Alpha,595
+Product_251,Electronics,Nova 251,Laptop,Nova,946
+Product_630,Toys,Pulse 630,Indoor,Pulse,105
+Product_576,Books,Pulse 576,Education,Pulse,45
+Product_908,Clothing,Omni 908,Men,Omni,108
+Product_643,Books,Pulse 643,Comics,Pulse,45
+Product_434,Books,Pulse 434,Education,Pulse,45
+Product_444,Home Appliances,Zenith 444,Kitchen,Zenith,595
+Product_229,Electronics,Xeno 229,Tablet,Xeno,946
+Product_12,Books,Xeno 12,Education,Xeno,45
+Product_748,Electronics,Pulse 748,Tablet,Pulse,946
+Product_507,Books,Pulse 507,Fiction,Pulse,45
+Product_282,Toys,Alpha 282,Indoor,Alpha,105
+Product_215,Electronics,Pulse 215,Mobile,Pulse,946
+Product_524,Books,Omni 524,Fiction,Omni,45
+Product_388,Clothing,Omni 388,Men,Omni,108
+Product_940,Home Appliances,Nova 940,Laundry,Nova,595
+Product_553,Electronics,Alpha 553,Mobile,Alpha,946
+Product_50,Toys,Xeno 50,Educational,Xeno,105
+Product_439,Electronics,Pulse 439,Tablet,Pulse,946
+Product_233,Home Appliances,Xeno 233,Laundry,Xeno,595
+Product_40,Toys,Pulse 40,Indoor,Pulse,105
+Product_923,Books,Nova 923,Comics,Nova,45
+Product_997,Electronics,Omni 997,Laptop,Omni,946
+Product_552,Books,Omni 552,Education,Omni,45
+Product_186,Toys,Alpha 186,Indoor,Alpha,105
+Product_266,Clothing,Alpha 266,Kids,Alpha,108
+Product_782,Toys,Xeno 782,Educational,Xeno,105
+Product_990,Home Appliances,Xeno 990,Living Room,Xeno,595
+Product_528,Electronics,Alpha 528,Mobile,Alpha,946
+Product_931,Clothing,Alpha 931,Women,Alpha,108
+Product_681,Home Appliances,Xeno 681,Living Room,Xeno,595
+Product_562,Toys,Alpha 562,Educational,Alpha,105
+Product_702,Home Appliances,Alpha 702,Kitchen,Alpha,595
+Product_470,Electronics,Alpha 470,Laptop,Alpha,946
+Product_451,Books,Zenith 451,Education,Zenith,45
+Product_511,Clothing,Nova 511,Kids,Nova,108
+Product_340,Books,Nova 340,Fiction,Nova,45
+Product_747,Toys,Nova 747,Outdoor,Nova,105
+Product_155,Books,Alpha 155,Fiction,Alpha,45
+Product_523,Electronics,Zenith 523,Laptop,Zenith,946
+Product_559,Clothing,Zenith 559,Kids,Zenith,108
+Product_255,Home Appliances,Nova 255,Kitchen,Nova,595
+Product_530,Toys,Omni 530,Indoor,Omni,105
+Product_892,Clothing,Alpha 892,Kids,Alpha,108
+Product_845,Books,Alpha 845,Comics,Alpha,45
+Product_464,Home Appliances,Pulse 464,Living Room,Pulse,595
+Product_271,Home Appliances,Alpha 271,Living Room,Alpha,595
+Product_200,Books,Omni 200,Education,Omni,45
+Product_124,Toys,Alpha 124,Educational,Alpha,105
+Product_131,Clothing,Omni 131,Women,Omni,108
+Product_350,Home Appliances,Nova 350,Laundry,Nova,595
+Product_366,Electronics,Zenith 366,Mobile,Zenith,946
+Product_980,Home Appliances,Nova 980,Laundry,Nova,595
+Product_599,Home Appliances,Zenith 599,Laundry,Zenith,595
+Product_672,Clothing,Nova 672,Women,Nova,108
+Product_767,Toys,Alpha 767,Educational,Alpha,105
+Product_707,Clothing,Alpha 707,Men,Alpha,108
+Product_303,Clothing,Omni 303,Men,Omni,108
+Product_826,Home Appliances,Omni 826,Laundry,Omni,595
+Product_34,Clothing,Zenith 34,Men,Zenith,108
+Product_48,Home Appliances,Zenith 48,Laundry,Zenith,595
+Product_817,Electronics,Alpha 817,Laptop,Alpha,946
+Product_339,Electronics,Zenith 339,Mobile,Zenith,946
+Product_286,Toys,Pulse 286,Outdoor,Pulse,105
+Product_839,Electronics,Alpha 839,Mobile,Alpha,946
+Product_239,Clothing,Pulse 239,Men,Pulse,108
+Product_752,Home Appliances,Xeno 752,Laundry,Xeno,595
+Product_22,Toys,Pulse 22,Indoor,Pulse,105
+Product_905,Home Appliances,Pulse 905,Living Room,Pulse,595
+Product_557,Home Appliances,Zenith 557,Living Room,Zenith,595
+Product_843,Clothing,Pulse 843,Kids,Pulse,108
+Product_986,Home Appliances,Alpha 986,Laundry,Alpha,595
+Product_890,Electronics,Omni 890,Tablet,Omni,946
+Product_106,Electronics,Pulse 106,Mobile,Pulse,946
+Product_42,Toys,Alpha 42,Educational,Alpha,105
+Product_431,Clothing,Alpha 431,Women,Alpha,108
+Product_126,Books,Xeno 126,Education,Xeno,45
+Product_341,Clothing,Pulse 341,Women,Pulse,108
+Product_976,Toys,Omni 976,Outdoor,Omni,105
+Product_593,Clothing,Nova 593,Kids,Nova,108
+Product_667,Books,Xeno 667,Fiction,Xeno,45
+Product_194,Home Appliances,Nova 194,Living Room,Nova,595
+Product_745,Electronics,Omni 745,Tablet,Omni,946
+Product_107,Books,Nova 107,Comics,Nova,45
+Product_758,Electronics,Pulse 758,Laptop,Pulse,946
+Product_4,Home Appliances,Pulse 4,Kitchen,Pulse,595
+Product_319,Clothing,Zenith 319,Women,Zenith,108
+Product_798,Books,Pulse 798,Education,Pulse,45
+Product_129,Electronics,Nova 129,Tablet,Nova,946
+Product_804,Clothing,Zenith 804,Women,Zenith,108
+Product_421,Toys,Pulse 421,Indoor,Pulse,105
+Product_169,Clothing,Nova 169,Men,Nova,108
+Product_349,Books,Zenith 349,Comics,Zenith,45
+Product_167,Toys,Pulse 167,Outdoor,Pulse,105
+Product_550,Clothing,Pulse 550,Women,Pulse,108
+Product_942,Clothing,Alpha 942,Women,Alpha,108
+Product_725,Toys,Nova 725,Indoor,Nova,105
+Product_649,Home Appliances,Pulse 649,Laundry,Pulse,595
+Product_684,Clothing,Pulse 684,Kids,Pulse,108
+Product_639,Home Appliances,Zenith 639,Kitchen,Zenith,595
+Product_378,Toys,Omni 378,Indoor,Omni,105
+Product_113,Clothing,Omni 113,Women,Omni,108
+Product_216,Books,Pulse 216,Fiction,Pulse,45
+Product_177,Toys,Zenith 177,Educational,Zenith,105
+Product_64,Clothing,Xeno 64,Women,Xeno,108
+Product_779,Clothing,Nova 779,Men,Nova,108
+Product_432,Toys,Alpha 432,Educational,Alpha,105
+Product_249,Clothing,Pulse 249,Women,Pulse,108
+Product_575,Toys,Xeno 575,Educational,Xeno,105
+Product_101,Toys,Xeno 101,Indoor,Xeno,105
+Product_420,Toys,Alpha 420,Outdoor,Alpha,105
+Product_701,Books,Omni 701,Fiction,Omni,45
+Product_611,Home Appliances,Pulse 611,Kitchen,Pulse,595
+Product_398,Electronics,Pulse 398,Laptop,Pulse,946
+Product_262,Electronics,Omni 262,Tablet,Omni,946
+Product_981,Books,Pulse 981,Fiction,Pulse,45
+Product_170,Home Appliances,Xeno 170,Kitchen,Xeno,595
+Product_621,Toys,Alpha 621,Educational,Alpha,105
+Product_424,Electronics,Omni 424,Tablet,Omni,946
+Product_496,Toys,Nova 496,Outdoor,Nova,105
+Product_930,Books,Zenith 930,Comics,Zenith,45
+Product_615,Books,Omni 615,Fiction,Omni,45
+Product_668,Clothing,Nova 668,Kids,Nova,108
+Product_903,Home Appliances,Nova 903,Kitchen,Nova,595
+Product_382,Toys,Pulse 382,Outdoor,Pulse,105
+Product_190,Books,Zenith 190,Education,Zenith,45
+Product_731,Home Appliances,Pulse 731,Kitchen,Pulse,595
+Product_841,Clothing,Xeno 841,Women,Xeno,108
+Product_588,Clothing,Alpha 588,Women,Alpha,108
+Product_63,Home Appliances,Pulse 63,Kitchen,Pulse,595
+Product_663,Clothing,Nova 663,Kids,Nova,108
+Product_512,Home Appliances,Pulse 512,Laundry,Pulse,595
+Product_283,Books,Pulse 283,Fiction,Pulse,45
+Product_754,Books,Pulse 754,Comics,Pulse,45
+Product_710,Electronics,Alpha 710,Tablet,Alpha,946
+Product_627,Books,Omni 627,Fiction,Omni,45
+Product_125,Toys,Xeno 125,Educational,Xeno,105
+Product_11,Books,Alpha 11,Comics,Alpha,45
+Product_979,Toys,Pulse 979,Indoor,Pulse,105
+Product_396,Toys,Zenith 396,Outdoor,Zenith,105
+Product_713,Toys,Omni 713,Outdoor,Omni,105
+Product_293,Books,Nova 293,Education,Nova,45
+Product_192,Toys,Xeno 192,Outdoor,Xeno,105
+Product_949,Books,Omni 949,Fiction,Omni,45
+Product_469,Home Appliances,Pulse 469,Living Room,Pulse,595
+Product_44,Home Appliances,Pulse 44,Living Room,Pulse,595
+Product_118,Clothing,Nova 118,Women,Nova,108
+Product_678,Books,Omni 678,Education,Omni,45
+Product_457,Clothing,Omni 457,Women,Omni,108
+Product_741,Toys,Nova 741,Outdoor,Nova,105
+Product_697,Toys,Xeno 697,Educational,Xeno,105
+Product_518,Electronics,Omni 518,Laptop,Omni,946
+Product_308,Home Appliances,Zenith 308,Laundry,Zenith,595
+Product_51,Toys,Omni 51,Outdoor,Omni,105
+Product_69,Toys,Zenith 69,Educational,Zenith,105
+Product_460,Books,Zenith 460,Fiction,Zenith,45
+Product_938,Toys,Nova 938,Educational,Nova,105
+Product_617,Toys,Alpha 617,Indoor,Alpha,105
+Product_241,Toys,Omni 241,Indoor,Omni,105
+Product_208,Electronics,Alpha 208,Laptop,Alpha,946
+Product_876,Toys,Alpha 876,Educational,Alpha,105
+Product_729,Electronics,Zenith 729,Laptop,Zenith,946
+Product_900,Toys,Zenith 900,Indoor,Zenith,105
+Product_381,Books,Zenith 381,Fiction,Zenith,45
+Product_493,Electronics,Alpha 493,Laptop,Alpha,946
+Product_956,Clothing,Alpha 956,Men,Alpha,108
+Product_821,Clothing,Zenith 821,Men,Zenith,108
+Product_969,Electronics,Xeno 969,Laptop,Xeno,946
+Product_780,Books,Nova 780,Fiction,Nova,45
+Product_642,Clothing,Omni 642,Kids,Omni,108
+Product_261,Toys,Zenith 261,Outdoor,Zenith,105
+Product_30,Electronics,Pulse 30,Tablet,Pulse,946
+Product_532,Electronics,Pulse 532,Tablet,Pulse,946
+Product_450,Electronics,Pulse 450,Laptop,Pulse,946
+Product_423,Home Appliances,Nova 423,Kitchen,Nova,595
+Product_370,Toys,Nova 370,Educational,Nova,105
+Product_571,Clothing,Pulse 571,Kids,Pulse,108
+Product_984,Electronics,Omni 984,Laptop,Omni,946
+Product_274,Toys,Pulse 274,Educational,Pulse,105
+Product_946,Toys,Xeno 946,Educational,Xeno,105
+Product_830,Books,Nova 830,Comics,Nova,45
+Product_989,Home Appliances,Xeno 989,Living Room,Xeno,595
+Product_753,Electronics,Alpha 753,Tablet,Alpha,946
+Product_696,Home Appliances,Xeno 696,Kitchen,Xeno,595
+Product_837,Home Appliances,Alpha 837,Laundry,Alpha,595
+Product_47,Toys,Xeno 47,Outdoor,Xeno,105
+Product_793,Books,Omni 793,Education,Omni,45
+Product_301,Toys,Alpha 301,Outdoor,Alpha,105
+Product_123,Books,Nova 123,Education,Nova,45
+Product_943,Toys,Xeno 943,Educational,Xeno,105
+Product_385,Clothing,Nova 385,Women,Nova,108
+Product_920,Toys,Xeno 920,Outdoor,Xeno,105
+Product_447,Clothing,Omni 447,Kids,Omni,108
+Product_304,Electronics,Zenith 304,Laptop,Zenith,946
+Product_519,Toys,Xeno 519,Educational,Xeno,105
+Product_720,Clothing,Nova 720,Women,Nova,108
+Product_874,Clothing,Pulse 874,Women,Pulse,108
+Product_885,Toys,Xeno 885,Educational,Xeno,105
+Product_139,Clothing,Alpha 139,Kids,Alpha,108
+Product_391,Home Appliances,Xeno 391,Laundry,Xeno,595
+Product_801,Toys,Alpha 801,Indoor,Alpha,105
+Product_389,Toys,Omni 389,Outdoor,Omni,105
+Product_834,Clothing,Omni 834,Men,Omni,108
+Product_957,Electronics,Alpha 957,Laptop,Alpha,946
+Product_891,Home Appliances,Zenith 891,Living Room,Zenith,595
+Product_766,Home Appliances,Zenith 766,Living Room,Zenith,595
+Product_653,Electronics,Omni 653,Laptop,Omni,946
+Product_234,Toys,Alpha 234,Outdoor,Alpha,105
+Product_563,Electronics,Alpha 563,Mobile,Alpha,946
+Product_486,Electronics,Pulse 486,Laptop,Pulse,946
+Product_982,Clothing,Alpha 982,Men,Alpha,108
+Product_950,Clothing,Xeno 950,Kids,Xeno,108
+Product_415,Clothing,Nova 415,Women,Nova,108
+Product_142,Home Appliances,Alpha 142,Laundry,Alpha,595
+Product_65,Clothing,Nova 65,Men,Nova,108
+Product_761,Home Appliances,Xeno 761,Kitchen,Xeno,595
+Product_534,Clothing,Alpha 534,Men,Alpha,108
+Product_225,Books,Nova 225,Education,Nova,45
+Product_789,Electronics,Zenith 789,Mobile,Zenith,946
+Product_749,Electronics,Pulse 749,Tablet,Pulse,946
+Product_545,Home Appliances,Zenith 545,Living Room,Zenith,595
+Product_112,Home Appliances,Xeno 112,Living Room,Xeno,595
+Product_757,Electronics,Xeno 757,Laptop,Xeno,946
+Product_570,Home Appliances,Omni 570,Kitchen,Omni,595
+Product_235,Electronics,Alpha 235,Laptop,Alpha,946
+Product_183,Clothing,Nova 183,Men,Nova,108
+Product_191,Books,Alpha 191,Fiction,Alpha,45
+Product_670,Home Appliances,Alpha 670,Kitchen,Alpha,595
+Product_209,Toys,Alpha 209,Outdoor,Alpha,105
+Product_72,Electronics,Xeno 72,Laptop,Xeno,946
+Product_258,Home Appliances,Zenith 258,Living Room,Zenith,595
+Product_2,Books,Xeno 2,Fiction,Xeno,45
+Product_285,Electronics,Alpha 285,Mobile,Alpha,946
+Product_714,Toys,Zenith 714,Indoor,Zenith,105
+Product_738,Toys,Zenith 738,Educational,Zenith,105
+Product_919,Books,Omni 919,Fiction,Omni,45
+Product_180,Clothing,Xeno 180,Women,Xeno,108
+Product_320,Books,Pulse 320,Comics,Pulse,45
+Product_864,Clothing,Xeno 864,Kids,Xeno,108
+Product_256,Toys,Nova 256,Educational,Nova,105
+Product_810,Electronics,Alpha 810,Laptop,Alpha,946
+Product_520,Clothing,Alpha 520,Kids,Alpha,108
+Product_499,Electronics,Xeno 499,Mobile,Xeno,946
+Product_522,Home Appliances,Zenith 522,Laundry,Zenith,595
+Product_99,Clothing,Pulse 99,Women,Pulse,108
+Product_585,Toys,Pulse 585,Educational,Pulse,105
+Product_329,Toys,Pulse 329,Educational,Pulse,105
+Product_324,Clothing,Zenith 324,Kids,Zenith,108
+Product_311,Electronics,Zenith 311,Laptop,Zenith,946
+Product_342,Electronics,Omni 342,Mobile,Omni,946
+Product_100,Home Appliances,Xeno 100,Laundry,Xeno,595
+Product_38,Electronics,Nova 38,Laptop,Nova,946
+Product_128,Home Appliances,Xeno 128,Kitchen,Xeno,595
+Product_103,Toys,Pulse 103,Outdoor,Pulse,105
+Product_912,Home Appliances,Nova 912,Kitchen,Nova,595
+Product_600,Electronics,Omni 600,Mobile,Omni,946
+Product_565,Toys,Zenith 565,Outdoor,Zenith,105
+Product_418,Toys,Pulse 418,Outdoor,Pulse,105
+Product_372,Electronics,Zenith 372,Mobile,Zenith,946
+Product_491,Electronics,Nova 491,Laptop,Nova,946
+Product_904,Home Appliances,Xeno 904,Kitchen,Xeno,595
+Product_558,Books,Zenith 558,Fiction,Zenith,45
+Product_206,Toys,Nova 206,Indoor,Nova,105
+Product_945,Home Appliances,Pulse 945,Living Room,Pulse,595
+Product_246,Toys,Zenith 246,Outdoor,Zenith,105
+Product_505,Clothing,Xeno 505,Kids,Xeno,108
+Product_924,Toys,Nova 924,Outdoor,Nova,105
+Product_927,Books,Omni 927,Education,Omni,45
+Product_122,Toys,Nova 122,Educational,Nova,105
+Product_880,Clothing,Xeno 880,Women,Xeno,108
+Product_784,Toys,Xeno 784,Outdoor,Xeno,105
+Product_887,Clothing,Zenith 887,Kids,Zenith,108
+Product_983,Electronics,Xeno 983,Mobile,Xeno,946
+Product_961,Toys,Pulse 961,Educational,Pulse,105
+Product_197,Books,Alpha 197,Fiction,Alpha,45
+Product_581,Toys,Alpha 581,Indoor,Alpha,105
+Product_777,Electronics,Xeno 777,Mobile,Xeno,946
+Product_471,Clothing,Alpha 471,Men,Alpha,108
+Product_441,Books,Xeno 441,Fiction,Xeno,45
+Product_604,Clothing,Xeno 604,Kids,Xeno,108
+Product_693,Toys,Zenith 693,Indoor,Zenith,105
+Product_858,Toys,Xeno 858,Educational,Xeno,105
+Product_41,Books,Pulse 41,Comics,Pulse,45
+Product_223,Toys,Omni 223,Educational,Omni,105
+Product_252,Clothing,Zenith 252,Women,Zenith,108
+Product_315,Clothing,Nova 315,Kids,Nova,108
+Product_195,Books,Pulse 195,Fiction,Pulse,45
+Product_999,Books,Xeno 999,Comics,Xeno,45
+Product_325,Books,Alpha 325,Education,Alpha,45
+Product_612,Electronics,Nova 612,Mobile,Nova,946
+Product_963,Electronics,Omni 963,Laptop,Omni,946
+Product_958,Electronics,Pulse 958,Tablet,Pulse,946
+Product_712,Toys,Omni 712,Educational,Omni,105
+Product_561,Clothing,Alpha 561,Women,Alpha,108
+Product_970,Toys,Zenith 970,Outdoor,Zenith,105
+Product_116,Electronics,Omni 116,Mobile,Omni,946
+Product_579,Home Appliances,Pulse 579,Laundry,Pulse,595
+Product_97,Toys,Xeno 97,Indoor,Xeno,105
+Product_483,Books,Xeno 483,Education,Xeno,45
+Product_307,Electronics,Zenith 307,Tablet,Zenith,946
+Product_926,Books,Pulse 926,Education,Pulse,45
+Product_613,Toys,Alpha 613,Outdoor,Alpha,105
+Product_965,Clothing,Nova 965,Men,Nova,108
+Product_356,Electronics,Xeno 356,Mobile,Xeno,946
+Product_163,Toys,Nova 163,Indoor,Nova,105
+Product_995,Clothing,Alpha 995,Men,Alpha,108
+Product_82,Clothing,Nova 82,Kids,Nova,108
+Product_211,Electronics,Omni 211,Tablet,Omni,946
+Product_377,Electronics,Zenith 377,Mobile,Zenith,946
+Product_337,Electronics,Alpha 337,Tablet,Alpha,946
+Product_60,Electronics,Alpha 60,Tablet,Alpha,946
+Product_763,Books,Xeno 763,Education,Xeno,45
+Product_477,Books,Alpha 477,Fiction,Alpha,45
+Product_179,Electronics,Omni 179,Tablet,Omni,946
+Product_895,Home Appliances,Alpha 895,Living Room,Alpha,595
+Product_153,Clothing,Zenith 153,Kids,Zenith,108
+Product_237,Electronics,Zenith 237,Tablet,Zenith,946
+Product_218,Books,Zenith 218,Fiction,Zenith,45
+Product_330,Home Appliances,Pulse 330,Kitchen,Pulse,595
+Product_222,Home Appliances,Alpha 222,Living Room,Alpha,595
+Product_865,Electronics,Pulse 865,Laptop,Pulse,946
+Product_443,Electronics,Nova 443,Laptop,Nova,946
+Product_193,Clothing,Nova 193,Women,Nova,108
+Product_149,Home Appliances,Pulse 149,Living Room,Pulse,595
+Product_316,Electronics,Zenith 316,Mobile,Zenith,946
+Product_860,Books,Nova 860,Education,Nova,45
+Product_448,Books,Zenith 448,Education,Zenith,45
+Product_838,Electronics,Nova 838,Mobile,Nova,946
+Product_827,Home Appliances,Nova 827,Laundry,Nova,595
+Product_513,Home Appliances,Nova 513,Living Room,Nova,595
+Product_960,Toys,Pulse 960,Educational,Pulse,105
+Product_791,Electronics,Alpha 791,Laptop,Alpha,946
+Product_727,Home Appliances,Xeno 727,Living Room,Xeno,595
+Product_540,Toys,Omni 540,Outdoor,Omni,105
+Product_181,Toys,Nova 181,Outdoor,Nova,105
+Product_662,Books,Alpha 662,Fiction,Alpha,45
+Product_371,Toys,Nova 371,Educational,Nova,105
+Product_37,Books,Pulse 37,Education,Pulse,45
+Product_978,Toys,Omni 978,Educational,Omni,105
+Product_87,Electronics,Nova 87,Tablet,Nova,946
+Product_526,Clothing,Alpha 526,Men,Alpha,108
+Product_58,Books,Omni 58,Fiction,Omni,45
+Product_680,Home Appliances,Pulse 680,Living Room,Pulse,595
+Product_529,Books,Pulse 529,Education,Pulse,45
+Product_95,Home Appliances,Nova 95,Living Room,Nova,595
+Product_819,Electronics,Pulse 819,Tablet,Pulse,946
+Product_554,Clothing,Zenith 554,Men,Zenith,108
+Product_212,Electronics,Nova 212,Laptop,Nova,946
+Product_776,Clothing,Zenith 776,Kids,Zenith,108
+Product_556,Books,Xeno 556,Comics,Xeno,45
+Product_395,Electronics,Alpha 395,Tablet,Alpha,946
+Product_9,Home Appliances,Xeno 9,Living Room,Xeno,595
+Product_735,Clothing,Omni 735,Kids,Omni,108
+Product_445,Clothing,Nova 445,Men,Nova,108
+Product_531,Clothing,Omni 531,Kids,Omni,108
+Product_338,Toys,Nova 338,Indoor,Nova,105
+Product_914,Clothing,Nova 914,Kids,Nova,108
+Product_446,Toys,Alpha 446,Educational,Alpha,105
+Product_130,Books,Pulse 130,Education,Pulse,45
+Product_987,Home Appliances,Xeno 987,Laundry,Xeno,595
+Product_548,Toys,Nova 548,Outdoor,Nova,105
+Product_488,Books,Omni 488,Fiction,Omni,45
+Product_654,Clothing,Xeno 654,Women,Xeno,108
+Product_673,Home Appliances,Nova 673,Kitchen,Nova,595
+Product_634,Toys,Xeno 634,Outdoor,Xeno,105
+Product_33,Electronics,Alpha 33,Mobile,Alpha,946
+Product_203,Clothing,Nova 203,Kids,Nova,108
+Product_671,Toys,Alpha 671,Educational,Alpha,105
+Product_629,Books,Omni 629,Comics,Omni,45
+Product_485,Electronics,Nova 485,Mobile,Nova,946
+Product_603,Electronics,Omni 603,Tablet,Omni,946
+Product_76,Home Appliances,Xeno 76,Laundry,Xeno,595
+Product_127,Clothing,Nova 127,Kids,Nova,108
+Product_302,Electronics,Xeno 302,Mobile,Xeno,946
+Product_413,Home Appliances,Pulse 413,Laundry,Pulse,595
+Product_682,Home Appliances,Omni 682,Living Room,Omni,595
+Product_16,Electronics,Nova 16,Laptop,Nova,946
+Product_198,Books,Xeno 198,Comics,Xeno,45
+Product_893,Electronics,Xeno 893,Laptop,Xeno,946
+Product_703,Electronics,Pulse 703,Tablet,Pulse,946
+Product_268,Home Appliances,Pulse 268,Kitchen,Pulse,595
+Product_6,Home Appliances,Omni 6,Laundry,Omni,595
+Product_537,Books,Omni 537,Comics,Omni,45
+Product_160,Electronics,Xeno 160,Mobile,Xeno,946
+Product_90,Home Appliances,Nova 90,Living Room,Nova,595
+Product_773,Clothing,Alpha 773,Men,Alpha,108
+Product_453,Clothing,Alpha 453,Men,Alpha,108
+Product_189,Books,Zenith 189,Comics,Zenith,45
+Product_538,Books,Omni 538,Fiction,Omni,45
+Product_650,Toys,Zenith 650,Indoor,Zenith,105
+Product_313,Electronics,Zenith 313,Laptop,Zenith,946
+Product_141,Home Appliances,Alpha 141,Living Room,Alpha,595
+Product_306,Electronics,Alpha 306,Laptop,Alpha,946
+Product_204,Electronics,Alpha 204,Laptop,Alpha,946
+Product_500,Toys,Zenith 500,Indoor,Zenith,105
+Product_506,Home Appliances,Xeno 506,Kitchen,Xeno,595
+Product_117,Books,Nova 117,Education,Nova,45
+Product_449,Toys,Xeno 449,Indoor,Xeno,105
+Product_26,Home Appliances,Xeno 26,Living Room,Xeno,595
+Product_851,Toys,Xeno 851,Educational,Xeno,105
+Product_281,Books,Alpha 281,Fiction,Alpha,45
+Product_832,Books,Xeno 832,Comics,Xeno,45
+Product_631,Home Appliances,Nova 631,Laundry,Nova,595
+Product_94,Home Appliances,Nova 94,Kitchen,Nova,595
+Product_501,Clothing,Nova 501,Kids,Nova,108
+Product_806,Toys,Pulse 806,Outdoor,Pulse,105
+Product_628,Home Appliances,Alpha 628,Kitchen,Alpha,595
+Product_694,Clothing,Omni 694,Men,Omni,108
+Product_602,Toys,Xeno 602,Indoor,Xeno,105
+Product_902,Toys,Zenith 902,Outdoor,Zenith,105
+Product_661,Books,Omni 661,Education,Omni,45
+Product_402,Home Appliances,Omni 402,Living Room,Omni,595
+Product_219,Books,Pulse 219,Fiction,Pulse,45
+Product_811,Clothing,Omni 811,Men,Omni,108
+Product_770,Home Appliances,Nova 770,Living Room,Nova,595
+Product_187,Clothing,Nova 187,Women,Nova,108
+Product_88,Home Appliances,Zenith 88,Living Room,Zenith,595
+Product_722,Books,Pulse 722,Education,Pulse,45
+Product_721,Toys,Zenith 721,Outdoor,Zenith,105
+Product_583,Home Appliances,Omni 583,Living Room,Omni,595
+Product_300,Electronics,Xeno 300,Tablet,Xeno,946
+Product_544,Books,Alpha 544,Fiction,Alpha,45
+Product_788,Books,Omni 788,Comics,Omni,45
+Product_405,Electronics,Zenith 405,Mobile,Zenith,946
+Product_886,Electronics,Omni 886,Mobile,Omni,946
+Product_929,Clothing,Alpha 929,Men,Alpha,108
+Product_775,Books,Xeno 775,Fiction,Xeno,45
+Product_345,Toys,Pulse 345,Indoor,Pulse,105
+Product_494,Home Appliances,Omni 494,Living Room,Omni,595
+Product_333,Books,Alpha 333,Comics,Alpha,45
+Product_260,Books,Pulse 260,Fiction,Pulse,45
+Product_786,Toys,Nova 786,Educational,Nova,105
+Product_174,Books,Xeno 174,Comics,Xeno,45
+Product_855,Toys,Zenith 855,Indoor,Zenith,105
+Product_877,Books,Xeno 877,Education,Xeno,45
+Product_66,Toys,Zenith 66,Outdoor,Zenith,105
+Product_677,Clothing,Zenith 677,Women,Zenith,108
+Product_734,Clothing,Nova 734,Women,Nova,108
+Product_651,Toys,Pulse 651,Outdoor,Pulse,105
+Product_119,Clothing,Nova 119,Kids,Nova,108
+Product_715,Toys,Alpha 715,Educational,Alpha,105
+Product_580,Clothing,Zenith 580,Kids,Zenith,108
+Product_918,Clothing,Omni 918,Women,Omni,108
+Product_546,Toys,Nova 546,Educational,Nova,105
+Product_577,Clothing,Xeno 577,Men,Xeno,108
+Product_591,Home Appliances,Alpha 591,Living Room,Alpha,595
+Product_435,Home Appliances,Zenith 435,Laundry,Zenith,595
+Product_438,Toys,Omni 438,Educational,Omni,105
+Product_751,Electronics,Omni 751,Mobile,Omni,946
+Product_944,Electronics,Omni 944,Tablet,Omni,946
+Product_86,Electronics,Xeno 86,Laptop,Xeno,946
+Product_317,Electronics,Nova 317,Laptop,Nova,946
+Product_622,Clothing,Xeno 622,Men,Xeno,108
+Product_426,Toys,Xeno 426,Outdoor,Xeno,105
+Product_768,Clothing,Alpha 768,Men,Alpha,108
+Product_829,Books,Zenith 829,Education,Zenith,45
+Product_535,Toys,Omni 535,Educational,Omni,105
+Product_257,Home Appliances,Alpha 257,Kitchen,Alpha,595
+Product_456,Toys,Xeno 456,Educational,Xeno,105
+Product_517,Electronics,Nova 517,Tablet,Nova,946
+Product_32,Home Appliances,Alpha 32,Living Room,Alpha,595
+Product_120,Clothing,Omni 120,Women,Omni,108
+Product_236,Home Appliances,Nova 236,Kitchen,Nova,595
+Product_53,Home Appliances,Omni 53,Kitchen,Omni,595
+Product_247,Home Appliances,Zenith 247,Kitchen,Zenith,595
+Product_692,Toys,Omni 692,Outdoor,Omni,105
+Product_386,Books,Pulse 386,Comics,Pulse,45
+Product_27,Electronics,Omni 27,Laptop,Omni,946
+Product_199,Clothing,Nova 199,Men,Nova,108
+Product_541,Books,Nova 541,Comics,Nova,45
+Product_666,Electronics,Omni 666,Tablet,Omni,946
+Product_592,Clothing,Omni 592,Men,Omni,108
+Product_601,Electronics,Pulse 601,Tablet,Pulse,946
+Product_503,Home Appliances,Pulse 503,Living Room,Pulse,595
+Product_279,Home Appliances,Xeno 279,Kitchen,Xeno,595
+Product_881,Home Appliances,Alpha 881,Laundry,Alpha,595
+Product_409,Clothing,Pulse 409,Kids,Pulse,108
+Product_510,Home Appliances,Zenith 510,Living Room,Zenith,595
+Product_238,Toys,Pulse 238,Educational,Pulse,105
+Product_147,Books,Zenith 147,Fiction,Zenith,45
+Product_882,Electronics,Pulse 882,Tablet,Pulse,946
+Product_595,Toys,Pulse 595,Indoor,Pulse,105
+Product_84,Books,Nova 84,Comics,Nova,45
+Product_586,Home Appliances,Zenith 586,Laundry,Zenith,595
+Product_29,Clothing,Xeno 29,Women,Xeno,108
+Product_489,Home Appliances,Nova 489,Living Room,Nova,595
+Product_726,Clothing,Zenith 726,Men,Zenith,108
+Product_284,Home Appliances,Zenith 284,Kitchen,Zenith,595
+Product_879,Home Appliances,Zenith 879,Laundry,Zenith,595
+Product_816,Books,Zenith 816,Comics,Zenith,45
+Product_45,Toys,Pulse 45,Educational,Pulse,105
+Product_164,Books,Zenith 164,Education,Zenith,45
+Product_854,Home Appliances,Xeno 854,Living Room,Xeno,595
+Product_108,Toys,Pulse 108,Indoor,Pulse,105
+Product_636,Electronics,Alpha 636,Laptop,Alpha,946
+Product_459,Clothing,Pulse 459,Kids,Pulse,108
+Product_492,Home Appliances,Pulse 492,Living Room,Pulse,595
+Product_353,Toys,Nova 353,Outdoor,Nova,105
+Product_909,Electronics,Pulse 909,Laptop,Pulse,946
+Product_869,Books,Nova 869,Education,Nova,45
+Product_717,Home Appliances,Xeno 717,Kitchen,Xeno,595
+Product_184,Clothing,Xeno 184,Women,Xeno,108
+Product_802,Toys,Zenith 802,Educational,Zenith,105
+Product_62,Toys,Alpha 62,Indoor,Alpha,105
+Product_569,Books,Xeno 569,Comics,Xeno,45
+Product_705,Home Appliances,Alpha 705,Living Room,Alpha,595
+Product_270,Clothing,Omni 270,Kids,Omni,108
+Product_699,Electronics,Xeno 699,Mobile,Xeno,946
+Product_213,Home Appliances,Zenith 213,Living Room,Zenith,595
+Product_93,Clothing,Nova 93,Women,Nova,108
+Product_244,Clothing,Nova 244,Women,Nova,108
+Product_314,Clothing,Pulse 314,Kids,Pulse,108
+Product_312,Electronics,Omni 312,Tablet,Omni,946
+Product_400,Home Appliances,Nova 400,Kitchen,Nova,595
+Product_475,Electronics,Nova 475,Mobile,Nova,946
+Product_137,Toys,Zenith 137,Outdoor,Zenith,105
+Product_495,Books,Pulse 495,Education,Pulse,45
+Product_795,Books,Alpha 795,Education,Alpha,45
+Product_429,Books,Xeno 429,Education,Xeno,45
+Product_379,Books,Omni 379,Education,Omni,45
+Product_955,Home Appliances,Nova 955,Living Room,Nova,595
+Product_606,Electronics,Omni 606,Tablet,Omni,946
+Product_975,Toys,Nova 975,Educational,Nova,105
+Product_1000,Electronics,Zenith 1000,Tablet,Zenith,946
+Product_847,Electronics,Omni 847,Laptop,Omni,946
+Product_19,Clothing,Zenith 19,Women,Zenith,108
+Product_883,Home Appliances,Alpha 883,Kitchen,Alpha,595
+Product_973,Home Appliances,Xeno 973,Kitchen,Xeno,595
+Product_232,Books,Pulse 232,Education,Pulse,45
+Product_109,Home Appliances,Alpha 109,Kitchen,Alpha,595
+Product_176,Toys,Xeno 176,Educational,Xeno,105
+Product_297,Electronics,Pulse 297,Mobile,Pulse,946
+Product_936,Toys,Alpha 936,Educational,Alpha,105
+Product_437,Books,Alpha 437,Education,Alpha,45
+Product_265,Home Appliances,Nova 265,Living Room,Nova,595
+Product_479,Toys,Nova 479,Outdoor,Nova,105
+Product_655,Toys,Omni 655,Indoor,Omni,105
+Product_196,Books,Alpha 196,Comics,Alpha,45
+Product_250,Electronics,Pulse 250,Tablet,Pulse,946
+Product_555,Books,Zenith 555,Fiction,Zenith,45
+Product_357,Electronics,Pulse 357,Laptop,Pulse,946
+Product_83,Home Appliances,Pulse 83,Kitchen,Pulse,595
+Product_294,Books,Nova 294,Education,Nova,45
+Product_972,Electronics,Omni 972,Tablet,Omni,946
+Product_857,Electronics,Zenith 857,Tablet,Zenith,946
+Product_384,Home Appliances,Nova 384,Laundry,Nova,595
+Product_67,Books,Pulse 67,Education,Pulse,45
+Product_351,Toys,Omni 351,Indoor,Omni,105
+Product_589,Toys,Alpha 589,Outdoor,Alpha,105
+Product_407,Books,Pulse 407,Comics,Pulse,45
+Product_862,Electronics,Alpha 862,Mobile,Alpha,946
+Product_476,Toys,Omni 476,Educational,Omni,105
+Product_276,Toys,Alpha 276,Educational,Alpha,105
+Product_478,Electronics,Zenith 478,Tablet,Zenith,946
+Product_968,Electronics,Xeno 968,Tablet,Xeno,946
+Product_842,Clothing,Xeno 842,Kids,Xeno,108
+Product_55,Clothing,Alpha 55,Kids,Alpha,108
+Product_463,Clothing,Alpha 463,Kids,Alpha,108
+Product_91,Books,Nova 91,Fiction,Nova,45
+Product_723,Clothing,Zenith 723,Kids,Zenith,108
+Product_932,Books,Nova 932,Fiction,Nova,45
+Product_820,Books,Alpha 820,Comics,Alpha,45
+Product_111,Home Appliances,Nova 111,Laundry,Nova,595
+Product_728,Toys,Pulse 728,Educational,Pulse,105
+Product_165,Clothing,Nova 165,Women,Nova,108
+Product_427,Toys,Nova 427,Outdoor,Nova,105
+Product_812,Electronics,Omni 812,Mobile,Omni,946
+Product_853,Home Appliances,Nova 853,Kitchen,Nova,595
+Product_683,Clothing,Xeno 683,Men,Xeno,108
+Product_740,Toys,Zenith 740,Educational,Zenith,105
+Product_363,Electronics,Xeno 363,Laptop,Xeno,946
+Product_85,Books,Xeno 85,Comics,Xeno,45
+Product_695,Home Appliances,Omni 695,Laundry,Omni,595
+Product_508,Electronics,Alpha 508,Tablet,Alpha,946
+Product_709,Electronics,Pulse 709,Mobile,Pulse,946
+Product_136,Home Appliances,Pulse 136,Laundry,Pulse,595
+Product_245,Electronics,Pulse 245,Mobile,Pulse,946
+Product_92,Clothing,Pulse 92,Women,Pulse,108
+Product_359,Toys,Zenith 359,Outdoor,Zenith,105
+Product_278,Clothing,Omni 278,Men,Omni,108
+Product_254,Toys,Omni 254,Educational,Omni,105
+Product_640,Electronics,Pulse 640,Laptop,Pulse,946
+Product_96,Books,Xeno 96,Comics,Xeno,45
+Product_291,Toys,Xeno 291,Outdoor,Xeno,105
